@@ -36,8 +36,8 @@ Este projeto Flutter é um **gerenciador de produtos**, permitindo **listar, adi
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/product-manager-flutter.git
-cd product-manager-flutter
+git clone https://github.com/GustavoMascarenhasSfier/Carrinho-de-compra-completo.git
+cd Carrinho-de-compra-completo
 ```
 
 2. **Instale as dependências:**
@@ -72,8 +72,7 @@ Abra em um emulador ou dispositivo físico. A lista de produtos começará vazia
 
 ## 👨‍💻 Autor
 
-- Desenvolvido por [Seu Nome]
-- [Seu e-mail ou LinkedIn opcional]
+- Desenvolvido por [Gustavo Mascarenhas Sfier Arando]
 
 ## ⚖️ Licença
 
